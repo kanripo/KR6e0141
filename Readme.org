@@ -1,11 +1,9 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:58:49.484558
-#+TITLE: 華嚴大意
-#+PROPERTY: CBETA_ID X58n1023
-#+PROPERTY: ID KR6e0141
-#+PROPERTY: SOURCE 卍 Xuzangjing Vol. 58, No. 1023
-#+PROPERTY: VOL 58
-#+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 華嚴大意 / X
+#+DATE: 2015-11-26 14:21:21.303919
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         X|【卍續】    |
 
-<pb:KR6e0141_X_000-0623c>
+* 目次
+* 卷
+** [[file:KR6e0141_001.txt][華嚴大意 1]]
